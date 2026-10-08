@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kboard Hunik</string>
+    <string name="tagline">لوحة مفاتيح عربي / English خفيفة</string>
+    <string name="step1">١) تفعيل لوحة المفاتيح</string>
+    <string name="step2">٢) اختيار Kboard Hunik للكتابة</string>
+    <string name="st_enabled">مفعّلة</string>
+    <string name="st_disabled">غير مفعّلة</string>
+    <string name="st_selected">مختارة كلوحة افتراضية</string>
+    <string name="st_not_selected">غير مختارة</string>
+    <string name="test_hint">اكتب هنا للتجربة</string>
+    <string name="opt_haptic">اهتزاز عند الضغط</string>
+    <string name="opt_preview">تكبير الحرف عند الضغط</string>
+    <string name="opt_sound">صوت المفاتيح</string>
+    <string name="hint_long">اضغط مطوّلاً على الحروف للبدائل (أ إ آ، é، الأرقام العربية...)</string>
+</resources>
